@@ -1,0 +1,8 @@
+com\home\restapi\App.class
+com\home\restapi\PersonController.class
+com\home\restapi\PersonsResponse.class
+com\home\restapi\PersonServiceImpl.class
+com\home\restapi\ApplicationInitializer.class
+com\home\restapi\Person.class
+com\home\restapi\PersonService.class
+com\home\restapi\ApplicationConfiguration.class
